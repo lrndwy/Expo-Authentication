@@ -1,0 +1,44 @@
+{
+  "name": "expo-authentication",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "DARK_MODE=media expo start --android",
+    "ios": "DARK_MODE=media expo start --ios",
+    "web": "DARK_MODE=media expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.1",
+    "@gluestack-ui/icon": "^0.1.25",
+    "@gluestack-ui/nativewind-utils": "^1.0.26",
+    "@gluestack-ui/overlay": "^0.1.21",
+    "@gluestack-ui/toast": "^1.0.9",
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-navigation/native": "^7.0.15",
+    "@react-navigation/native-stack": "^7.2.1",
+    "@supabase/supabase-js": "^2.49.1",
+    "babel-plugin-module-resolver": "^5.0.2",
+    "expo": "~52.0.37",
+    "expo-status-bar": "~2.0.1",
+    "lucide-react-native": "^0.477.0",
+    "nativewind": "^4.1.23",
+    "react": "18.3.1",
+    "react-dom": "^19.0.0",
+    "react-native": "0.76.7",
+    "react-native-css-interop": "^0.1.22",
+    "react-native-reanimated": "^3.17.1",
+    "react-native-safe-area-context": "^5.3.0",
+    "react-native-screens": "^4.9.1",
+    "react-native-svg": "^15.11.2",
+    "react-native-web": "~0.19.13",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~18.3.12",
+    "jscodeshift": "^0.15.2",
+    "typescript": "^5.3.3"
+  },
+  "private": true
+}
