@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50778989697",
+    "project_id": "rne-boilerplate",
+    "storage_bucket": "rne-boilerplate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50778989697:android:16933afb2e98b4de7a9980",
+        "android_client_info": {
+          "package_name": "com.lrndwy.ExpoAuthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-qCwZTQOGMHRb02Y2IqsamCyK6Notys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
